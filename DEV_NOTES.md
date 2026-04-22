@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Removed unused variable declarations
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-22
+- Updated CI cache strategy
+- Added CONTRIBUTING.md stub
