@@ -19,3 +19,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Updated CI cache strategy
 - Added CONTRIBUTING.md stub
+
+## 2026-05-06
+- Added basic usage examples to README
+- Cleaned up old debug logs
+- Verified API endpoint response schema
