@@ -24,3 +24,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Cleaned up old debug logs
 - Verified API endpoint response schema
+
+## 2026-05-06
+- Added CONTRIBUTING.md stub
+- Cross-checked behaviour against spec
+- Added basic usage examples to README
