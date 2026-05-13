@@ -29,3 +29,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Cross-checked behaviour against spec
 - Added basic usage examples to README
+
+## 2026-05-13
+- Updated CI cache strategy
+- Verified API endpoint response schema
+- Added inline documentation for core functions
